@@ -1,0 +1,9 @@
+ERROR | 2020-09-25 17:40:59 | [main] Hellolog.App (App.java:17) - Hello World Will be printed on Error
+FATAL | 2020-09-25 17:40:59 | [main] Hellolog.App (App.java:18) - Hello World Will be printed on Fatal
+INFO  | 2020-09-25 17:40:59 | [main] Hellolog.App (App.java:19) - Hello World Will be printed on Info
+WARN  | 2020-09-25 17:40:59 | [main] Hellolog.App (App.java:20) - Hello World Will be printed on Warn
+DEBUG | 2020-09-25 17:41:58 | [main] Hellolog.App (App.java:16) - Hello World will be printed on Debug
+ERROR | 2020-09-25 17:41:58 | [main] Hellolog.App (App.java:17) - Hello World Will be printed on Error
+FATAL | 2020-09-25 17:41:58 | [main] Hellolog.App (App.java:18) - Hello World Will be printed on Fatal
+INFO  | 2020-09-25 17:41:58 | [main] Hellolog.App (App.java:19) - Hello World Will be printed on Info
+WARN  | 2020-09-25 17:41:58 | [main] Hellolog.App (App.java:20) - Hello World Will be printed on Warn
